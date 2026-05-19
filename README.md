@@ -58,6 +58,11 @@
 
 ---
 
+## Open Source
+🏅 Contributor & Ambassador — GirlScript Summer of Code 2026 (GSSoC'26)
+
+---
+
 ## 📈 GitHub Highlights
 
 - 💻 Building frontend and full stack projects  
